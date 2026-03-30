@@ -1,0 +1,29 @@
+﻿E:\برامج منزله\New folder\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lesson1-FindClient.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bank-System (oop).cpp
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsString.h(49,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsString.h(61,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsString.h(198,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsString.h(329,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsString.h(377,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsUpDateClientScreen.h(98,12): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1256)
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsUpDateClientScreen.h(101,12): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1256)
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsUpDateClientScreen.h(104,12): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1256)
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsWithdrawScreen.h(29,21): warning C4129: 'W': unrecognized character escape sequence
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsShowTransferScreen.h(55,23): warning C4129: 'T': unrecognized character escape sequence
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsListUserScreen.h(50,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsAddNewUserScreen.h(52,40): warning C4129: 'L': unrecognized character escape sequence
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsUpdateUserScreen.h(95,40): warning C4129: 'L': unrecognized character escape sequence
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsUpdateUserScreen.h(142,12): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1256)
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsUpdateUserScreen.h(145,12): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1256)
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsUpdateUserScreen.h(148,12): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1256)
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsShowUpdateScreen.h(30,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsShowCurrencyCalculatorScreen.h(42,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsLoginScreen.h(57,21): warning C4129: 'L': unrecognized character escape sequence
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsBankClient.h(370): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsBankClient.h(439): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsUser.h(375): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsCurrency.h(173): warning C4715: 'clsCurrency::FindByCode': not all control paths return a value
+C:\Users\الوجية\Desktop\Bank-System (oop)\Bank-System (oop)\clsCurrency.h(199): warning C4715: 'clsCurrency::FindByCountryName': not all control paths return a value
+  Bank-System (oop).vcxproj -> C:\Users\الوجية\Desktop\Bank-System (oop)\x64\Debug\Bank-System (oop).exe
